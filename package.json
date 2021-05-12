@@ -13,7 +13,7 @@
     "islider.js": "^2.2.5",
     "moment": "^2.24.0",
     "socket.io-client": "^2.3.0",
-    "swiper": "^5.3.7",
+    "swiper": "^6.5.1",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
     "vue-axios": "^2.1.5",
